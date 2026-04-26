@@ -1,2 +1,10 @@
-# guess-number
-Simple CLI game where the player tries to guess a randomly generated number. Includes hints (higher/lower) and counts attempts.
+# Guess the Number Game 🎯
+
+Simple CLI game where you try to guess a random number.
+
+## How to play
+
+Run:
+
+```bash
+python guess_number.py
